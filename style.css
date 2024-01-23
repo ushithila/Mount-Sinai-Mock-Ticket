@@ -1,0 +1,60 @@
+.box {
+  width: 500px;
+  height: 610px;
+  border: 3px solid #00b0f0;
+  background-color: #f7f7f7;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+.title{
+	text-align: center;
+	font-size: 30px;
+}
+
+.help{
+	text-align: center;
+}
+
+.name{
+	width: 450px;
+  	height: 30px;
+  	border: 3px solid #2196F3;
+  	background-color: #ffffff;
+  	margin-left: 23px;
+  }
+
+  .acc {
+  	width: 450px;
+  	height: 150px;
+  	border: 3px solid #2196F3;
+  	background-color: #ffffff;
+  	margin-left: 23px;
+  }
+
+ .submit{
+	width: 100px;
+  	height: 30px;
+  	border: 3px solid #2196F3;
+  	background-color: #ffffff;
+  	margin-left: 200px;
+  	margin-top: 10px;
+  }
+
+  .sub{
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  h3{
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: normal;
+  }
+  .title{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: bold;
+  }
+
+  
+  
